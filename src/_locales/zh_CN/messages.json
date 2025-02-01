@@ -1,0 +1,431 @@
+{
+  "extName": {
+    "message": "Web Activity Time Tracker - 封鎖網站、Pomodoro 與網頁分析"
+  },
+  "extDescription": {
+    "message": "追踪和限制您的网站活动时间，并阻止访问网站。监控您的网站使用情况"
+  },
+  "settings": {
+    "message": "设置"
+  },
+  "today": {
+    "message": "今天"
+  },
+  "allTime": {
+    "message": "总时间"
+  },
+  "byDays": {
+    "message": "每天"
+  },
+  "noData": {
+    "message": "无数据"
+  },
+  "noDataForPeriod": {
+    "message": "所选时间段内无数据"
+  },
+  "showAll": {
+    "message": "显示所有网站"
+  },
+  "sortBy": {
+    "message": "排序"
+  },
+  "usageTime": {
+    "message": "使用时间"
+  },
+  "session": {
+    "message": "会话"
+  },
+  "someSession": {
+    "message": "会话"
+  },
+  "sessions": {
+    "message": "会话"
+  },
+  "days": {
+    "message": "天"
+  },
+  "aggregate": {
+    "message": "汇总数据自"
+  },
+  "websites": {
+    "message": "网站"
+  },
+  "cannotOpenFile": {
+    "message": "由于安全协议，您无法打开本地文件"
+  },
+  "document": {
+    "message": "文件"
+  },
+  "limit": {
+    "message": "限制"
+  },
+  "d": {
+    "message": "d"
+  },
+  "h": {
+    "message": "h"
+  },
+  "m": {
+    "message": "m"
+  },
+  "s": {
+    "message": "s"
+  },
+  "firstActiveDay": {
+    "message": "第一个活动日"
+  },
+  "numberOfActiveDays": {
+    "message": "活动天数"
+  },
+  "totalNumberOfDays": {
+    "message": "总天数"
+  },
+  "todayTime": {
+    "message": "今天所有的时间"
+  },
+  "averageTime": {
+    "message": "活动日的平均时间"
+  },
+  "averageDailyUsage": {
+    "message": "平均每日使用量"
+  },
+  "mostActiveDay": {
+    "message": "最活跃的一天"
+  },
+  "mostInactiveDay": {
+    "message": "最不活跃的一天"
+  },
+  "todayInclude": {
+    "message": "今天包含在统计数据中。点击以排除。"
+  },
+  "todayEcclude": {
+    "message": "今天不包含在统计数据中。点击以包含。"
+  },
+  "averageTimeByDays": {
+    "message": "所选日期的平均时间"
+  },
+  "exportToCsv": {
+    "message": "导出 CSV"
+  },
+  "week": {
+    "message": "本周"
+  },
+  "month": {
+    "message": "本月"
+  },
+  "lastMonth": {
+    "message": "上月"
+  },
+  "generalSettings": {
+    "message": "设置"
+  },
+  "whiteListSettings": {
+    "message": "白名单"
+  },
+  "limitsSettings": {
+    "message": "限制"
+  },
+  "notificationsSettings": {
+    "message": "通知"
+  },
+  "pomodoroMode": {
+    "message": "Pomodoro"
+  },
+  "pomodoroSettings": {
+    "message": "Pomodoro 设置"
+  },
+  "pomodoro": {
+    "message": "Pomodoro",
+    "description": "Pomodoro 工作法是一种时间管理技术，以交替集中工作和休息为基础。根据经典的 Pomodoro 方法，工作时间为 25 分钟，休息时间为 5 分钟。"
+  },
+  "pomodoroExplanationIcon": {
+    "message": "启用 Pomodoro 模式并激活操作模式后，您将看到以下图标",
+    "description": "在休息时间，您会看到这个扩展图标"
+  },
+  "pomodoroExplanationTime": {
+    "message": "在 Pomodoro 模式下，扩展会继续考虑你在网站上花费的时间、所有限制和通知。"
+  },
+  "pomodoroExplanationStop": {
+    "message": "按下 '停止' 键后，运行时间和休息时间将重置为零"
+  },
+  "pomodoroWork": {
+    "message": "工作期限"
+  },
+  "pomodoroRest": {
+    "message": "休息时间"
+  },
+  "pomodoroFrequency": {
+    "message": "重复次数"
+  },
+  "start": {
+    "message": "启动"
+  },
+  "stop": {
+    "message": "停止"
+  },
+  "pomodoroIsEnabled": {
+    "message": "番茄钟模式已启用"
+  },
+  "pomodoroSoundAfter": {
+    "message": "完整时段后的声音"
+  },
+  "clickToPreview": {
+    "message": "点击收听"
+  },
+  "sound": {
+    "message": "声音"
+  },
+  "aboutSettings": {
+    "message": "关于"
+  },
+  "viewTimeInBadge": {
+    "message": "在图标中显示时间跟踪器",
+    "description": "您可以在扩展程序图标上以简短格式查看当前的“花费时间”信息。"
+  },
+  "deferringDescription": {
+    "message": "您一天只能将拦截推迟 5 分钟一次。"
+  },
+  "allowDeferringBlock": {
+    "message": "允许推迟拦截 5 分钟",
+    "description": "站点被拦截后，您一天中只能将拦截推迟 5 分钟一次。"
+  },
+  "intervalInactivity": {
+    "message": "如果没有操作，则停止跟踪器：",
+    "description": "可以是使用鼠标或键盘进行的任何操作"
+  },
+  "exportToCsvSetting": {
+    "message": "将您的网站活动数据导出为 CSV 格式",
+    "description": "您可以导出任何日期范围内的网站活动。"
+  },
+  "sec": {
+    "message": "秒"
+  },
+  "min": {
+    "message": "分钟"
+  },
+  "2min": {
+    "message": "分钟"
+  },
+  "mins": {
+    "message": "分钟"
+  },
+  "whiteList": {
+    "message": "这些网站的活动和花费时间将不会被跟踪。"
+  },
+  "addWebsite": {
+    "message": "添加网站"
+  },
+  "enterWebsite": {
+    "message": "输入网站名称..."
+  },
+  "enterNotification": {
+    "message": "输入通知消息..."
+  },
+  "limits": {
+    "message": "网站的每日访问限制",
+    "description": "设置每天允许访问网站的最长时间。超过此时间后，该网站将被拦截。"
+  },
+  "limitsTip": {
+    "message": "如果您将拦截时间设置为 0 小时 0 分钟，那么该网站将立即被拦截。"
+  },
+  "save": {
+    "message": "保存"
+  },
+  "showDailyNotification": {
+    "message": "每日摘要通知",
+    "description": "每天结束时，您将收到一条通知，其中包含您的每日使用情况摘要。"
+  },
+  "notificationTime": {
+    "message": "网站通知",
+    "description": "每次在网站上花费特定时间时显示通知。"
+  },
+  "notificationMessage": {
+    "message": "通知消息",
+    "description": "每次在网站通知中，您都会看到这条消息。"
+  },
+  "notificationTimeSetting": {
+    "message": "包含有关您日常使用情况的摘要信息的通知时间："
+  },
+  "github": {
+    "message": "在以下位置留下您的反馈或报告问题："
+  },
+  "question": {
+    "message": "您还可以提问并留下您的建议。"
+  },
+  "supportForm": {
+    "message": "支持表单"
+  },
+  "doYouEnjoy": {
+    "message": "您喜欢 Web Activity Time Tracker 吗？"
+  },
+  "review": {
+    "message": "留下评论吧！"
+  },
+  "block": {
+    "message": "您今天已达到限制在 "
+  },
+  "5mins": {
+    "message": "再加 5 分钟"
+  },
+  "todayUsageTime": {
+    "message": "今天的总使用时间"
+  },
+  "comparedToYesterday": {
+    "message": " 与昨天相比 "
+  },
+  "mostVisited": {
+    "message": "访问最多的网站 "
+  },
+  "dashboard": {
+    "message": "仪表板"
+  },
+  "timeChartDescription": {
+    "message": "这是按小时显示一天时间的图表。"
+  },
+  "enjoyAndReview": {
+    "message": "喜欢这个扩展程序吗？",
+    "description": "给 Web Activity Time Tracker 评分"
+  },
+  "removeAllData": {
+    "message": "删除所有数据",
+    "description": "您可以删除所有访问过网站的所有数据和统计信息。"
+  },
+  "remove": {
+    "message": "删除"
+  },
+  "removeAllDataConfirm": {
+    "message": "您确定要删除所有数据吗？"
+  },
+  "cancel": {
+    "message": "取消"
+  },
+  "backupAndRestore": {
+    "message": "备份和恢复",
+    "description": "您可以下载所有访问过网站的所有数据的备份副本。"
+  },
+  "backup": {
+    "message": "备份"
+  },
+  "restore": {
+    "message": "恢复"
+  },
+  "welcome": {
+    "message": "欢迎使用 Web Activity Time Tracker",
+    "description": "Web Activity Time Tracker  是一款<b>开源</b>、<b>免费</b>且<b>无广告</b>的扩展程序，它可以帮助您跟踪在浏览网站上花费的时间和访问次数。"
+  },
+  "getStarted": {
+    "message": "开始使用"
+  },
+  "welcomeStart": {
+    "message": "您可以通过三个简单的步骤快速开始使用扩展程序："
+  },
+  "pinIcon": {
+    "message": "固定图标"
+  },
+  "pinIconPart1": {
+    "message": "为了更方便地使用此扩展程序，您可以将图标固定到工具栏上。点击图标："
+  },
+  "pinIconPart2": {
+    "message": "然后点击固定图标。"
+  },
+  "browse": {
+    "message": "浏览任何网站",
+    "description": "当您访问任何网站时，您会看到时间显示在图标上，就像这里一样："
+  },
+  "seeData": {
+    "message": "在弹出页面和仪表板上查看您的数据",
+    "description": "点击扩展图标以打开弹出页面，您将能够使用饼图读取数据可视化信息，包括今天、所有时间或按天分类。在弹出窗口中，您可以打开仪表板，它将按时钟显示您今天的时间。您还可以为任何网站设置每日时间限制、网站通知或导出数据到 CSV。"
+  },
+  "close": {
+    "message": "关闭"
+  },
+  "useExtension": {
+    "message": "使用扩展程序"
+  },
+  "next": {
+    "message": "接下来"
+  },
+  "showChangelog": {
+    "message": "显示更新日志",
+    "description": "显示更新扩展程序后的更改列表"
+  },
+  "byHours": {
+    "message": "每小时"
+  },
+  "intervals": {
+    "message": "时间间隔"
+  },
+  "intervalsChart": {
+    "message": "只有时间间隔大于",
+    "description": "展示"
+  },
+  "promoClearYoutube": {
+    "message": "您想屏蔽短片、评论、推荐视频、订阅和其他 YouTube 干扰内容吗？ 我们创建了另一个扩展程序，可帮助您不受干扰地观看 YouTube",
+    "description": "嘗試 Clean YouTube"
+  },
+  "completelyBlocked": {
+    "message": "完全封锁",
+    "description": "完全封锁"
+  },
+  "tryMyOtherApps": {
+    "message": "试试我的其他应用程序"
+  },
+  "clearYoutube": {
+    "message": "Clean YouTube",
+    "description": "Chrome扩展程序，可以隐藏YouTube短片，推荐视频，评论，feed，主页推荐和其他分心。 观看YouTube免费分心。"
+  },
+  "darkTheme": {
+    "message": "黑暗主题"
+  },
+  "cleanYoutube_promo": {
+    "message": "试试我们的新扩展 Clean Youtube"
+  },
+  "cleanYoutube_description": {
+    "message": "想隐藏 YouTube 上的短片、推荐视频和评论？"
+  },
+  "cleanYoutube_description2": {
+    "message": "Clean Youtube 是一款 YouTube™ 内容拦截器。"
+  },
+  "cleanYoutube_features": {
+    "message": "我们的特色"
+  },
+  "cleanYoutube_features1": {
+    "message": "清洁模式--只显示页面上的视频播放器"
+  },
+  "cleanYoutube_features2": {
+    "message": "隐藏短片、评论和相关视频。15+ 个选项。"
+  },
+  "cleanYoutube_features3": {
+    "message": "禁用自动播放"
+  },
+  "cleanYoutube_features4": {
+    "message": "禁用结束屏幕卡片"
+  },
+  "cleanYoutube_features5": {
+    "message": "黑白模式"
+  },
+  "try": {
+    "message": "试用"
+  },
+  "donate":{
+    "message": "捐赠"
+  },
+  "enjoy":{
+    "message": "您喜欢 Web Activity Time Tracker 吗"
+  },
+  "canDonate":{
+    "message": "Web Activity Time Tracker 是永久免费的扩展。您可以使用加密货币支持我进一步开发。"
+  },
+  "thanks":{
+    "message": "谢谢！ 🙏"
+  },
+  "coin":{
+    "message": "币"
+  },
+  "chain":{
+    "message": "链"
+  },
+  "address":{
+    "message": "币链地址"
+  }
+}

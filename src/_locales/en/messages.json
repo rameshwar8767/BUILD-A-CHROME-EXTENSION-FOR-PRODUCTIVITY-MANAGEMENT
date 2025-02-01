@@ -1,0 +1,431 @@
+{
+  "extName": {
+    "message": "Web Activity Time Tracker - Block Websites, Pomodoro & Web Analytics"
+  },
+  "extDescription": {
+    "message": "Track time of your web activity, limit and block distracting websites. Monitor your web usage."
+  },
+  "settings": {
+    "message": "Settings"
+  },
+  "today": {
+    "message": "Today"
+  },
+  "allTime": {
+    "message": "Total time"
+  },
+  "byDays": {
+    "message": "Daily"
+  },
+  "noData": {
+    "message": "No data"
+  },
+  "noDataForPeriod": {
+    "message": "No data for the selected period"
+  },
+  "showAll": {
+    "message": "Show all the websites"
+  },
+  "sortBy": {
+    "message": "Sorting by"
+  },
+  "usageTime": {
+    "message": "Usage Time"
+  },
+  "session": {
+    "message": "session"
+  },
+  "someSession": {
+    "message": "sessions"
+  },
+  "sessions": {
+    "message": "Sessions"
+  },
+  "days": {
+    "message": "days"
+  },
+  "aggregate": {
+    "message": "Aggregate data since"
+  },
+  "websites": {
+    "message": "websites"
+  },
+  "cannotOpenFile": {
+    "message": "You cannot open a local file due to security protocol"
+  },
+  "document": {
+    "message": "Document"
+  },
+  "limit": {
+    "message": "Limit"
+  },
+  "d": {
+    "message": "d"
+  },
+  "h": {
+    "message": "h"
+  },
+  "m": {
+    "message": "m"
+  },
+  "s": {
+    "message": "s"
+  },
+  "firstActiveDay": {
+    "message": "The first active day"
+  },
+  "numberOfActiveDays": {
+    "message": "Number of active days"
+  },
+  "totalNumberOfDays": {
+    "message": "Total number of days"
+  },
+  "todayTime": {
+    "message": "All the time today"
+  },
+  "averageTime": {
+    "message": "Average time for active days"
+  },
+  "averageDailyUsage": {
+    "message": "Average daily usage"
+  },
+  "mostActiveDay": {
+    "message": "The most active day"
+  },
+  "mostInactiveDay": {
+    "message": "The most inactive day"
+  },
+  "todayInclude": {
+    "message": "Today is included in the statistics. Click to exclude."
+  },
+  "todayEcclude": {
+    "message": "Today is excluded from the statistics. Click to include."
+  },
+  "averageTimeByDays": {
+    "message": "Average time on selected days"
+  },
+  "exportToCsv": {
+    "message": "Export to CSV"
+  },
+  "week": {
+    "message": "This week"
+  },
+  "month": {
+    "message": "This month"
+  },
+  "lastMonth": {
+    "message": "Last month"
+  },
+  "generalSettings": {
+    "message": "Settings"
+  },
+  "whiteListSettings": {
+    "message": "Whitelist"
+  },
+  "limitsSettings": {
+    "message": "Limits"
+  },
+  "notificationsSettings": {
+    "message": "Notifications"
+  },
+  "pomodoroMode": {
+    "message": "Pomodoro"
+  },
+  "pomodoroSettings": {
+    "message": "Pomodoro Settings"
+  },
+  "pomodoro": {
+    "message": "Pomodoro",
+    "description": "The Pomodoro method is a time management technique based on alternating periods of focused work and rest. According to the classics of the Pomodoro method, the work period lasts 25 minutes, the rest period is 5 minutes."
+  },
+  "pomodoroExplanationIcon": {
+    "message": "When Pomodoro mode is on and operation mode is active, you will see this icon",
+    "description": "During rest periods, you will see this extension icon"
+  },
+  "pomodoroExplanationTime": {
+    "message": "During Pomodoro mode, the extension continues to take into account the time you spent on the sites, all limits and notifications work."
+  },
+  "pomodoroExplanationStop": {
+    "message": "After clicking 'Stop', work and rest time is reset to zero."
+  },
+  "pomodoroWork": {
+    "message": "Period of work"
+  },
+  "pomodoroRest": {
+    "message": "Period of rest"
+  },
+  "pomodoroFrequency": {
+    "message": "Number of repetitions"
+  },
+  "start": {
+    "message": "Run"
+  },
+  "stop": {
+    "message": "Stop"
+  },
+  "pomodoroIsEnabled": {
+    "message": "Pomodoro Mode is enabled"
+  },
+  "pomodoroSoundAfter": {
+    "message": "Sound after complete period"
+  },
+  "clickToPreview": {
+    "message": "Click to listen"
+  },
+  "sound": {
+    "message": "Sound"
+  },
+  "aboutSettings": {
+    "message": "About"
+  },
+  "viewTimeInBadge": {
+    "message": "Display time tracker in icon",
+    "description": "You are able to see current 'spent time' information in short format on the extension icon"
+  },
+  "deferringDescription": {
+    "message": "You can postpone the blocking for 5 minutes only once during the day"
+  },
+  "allowDeferringBlock": {
+    "message": "Allow deferring block for 5 minutes",
+    "description": "After the site is blocked, you can postpone the blocking for 5 minutes during the day only once"
+  },
+  "intervalInactivity": {
+    "message": "Stop the tracker if there is no action for",
+    "description": "These are any actions with the mouse or keyboard"
+  },
+  "exportToCsvSetting": {
+    "message": "Exporting your web activity data to CSV",
+    "description": "You can export your web activity for any date range"
+  },
+  "sec": {
+    "message": "seconds"
+  },
+  "min": {
+    "message": "minute"
+  },
+  "2min": {
+    "message": "minutes"
+  },
+  "mins": {
+    "message": "minutes"
+  },
+  "whiteList": {
+    "message": "Activity and spent time for these websites will not be tracked"
+  },
+  "addWebsite": {
+    "message": "Add Website"
+  },
+  "enterWebsite": {
+    "message": "Enter website name..."
+  },
+  "enterNotification": {
+    "message": "Enter notification message..."
+  },
+  "limits": {
+    "message": "Daily access restrictions for the websites",
+    "description": "Set the maximum time allowed to visit the website per day. After this time, the site will be blocked."
+  },
+  "limitsTip": {
+    "message": "If you set the blocking time to 0 hours 0 minutes, the website will be blocked immediately"
+  },
+  "save": {
+    "message": "Save"
+  },
+  "showDailyNotification": {
+    "message": "Daily Summary Notifications",
+    "description": "At the end of each day, you will receive a notification with a summary of your daily usage"
+  },
+  "notificationTime": {
+    "message": "Notifications for websites",
+    "description": "Show notifications every time you spend a selected period of time on the website"
+  },
+  "notificationMessage": {
+    "message": "Notification message",
+    "description": "You will see this message in notification for websites every time"
+  },
+  "notificationTimeSetting": {
+    "message": "Notification time with summary information about your daily usage"
+  },
+  "github": {
+    "message": "Leave your feedback or report an issue on "
+  },
+  "question": {
+    "message": "You can also ask questions and leave your suggestions"
+  },
+  "supportForm": {
+    "message": "support form"
+  },
+  "doYouEnjoy": {
+    "message": "Do you enjoy Web Activity Time Tracker?"
+  },
+  "review": {
+    "message": "Leave a review!"
+  },
+  "promoClearYoutube": {
+    "message": "Would you like to block shorts, comments, recommended videos, subscriptions, and other YouTube distractions? We've created another extension that will help you watch YouTube without distractions.",
+    "description": "Try Clean Youtube"
+  },
+  "block": {
+    "message": "You've reached your limit for today on "
+  },
+  "5mins": {
+    "message": "+ 5 minutes"
+  },
+  "todayUsageTime": {
+    "message": "Total usage time for today "
+  },
+  "comparedToYesterday": {
+    "message": " compared to yesterday "
+  },
+  "mostVisited": {
+    "message": "Most visited website "
+  },
+  "dashboard": {
+    "message": "Dashboard"
+  },
+  "timeChartDescription": {
+    "message": "This is a chart of time during the day by the hour"
+  },
+  "enjoyAndReview": {
+    "message": "Enjoying the extension?",
+    "description": "Rate Web Activity Time Tracker"
+  },
+  "removeAllData": {
+    "message": "Remove all data",
+    "description": "You can delete all data and statistics of visited websites for all time"
+  },
+  "remove": {
+    "message": "Remove"
+  },
+  "removeAllDataConfirm": {
+    "message": "Are you sure you want to delete all data?"
+  },
+  "cancel": {
+    "message": "Cancel"
+  },
+  "backupAndRestore": {
+    "message": "Backup and restore",
+    "description": "You can download a backup copy of all data for all visited sites"
+  },
+  "backup": {
+    "message": "Backup"
+  },
+  "restore": {
+    "message": "Restore"
+  },
+  "welcome": {
+    "message": "Welcome to Web Activity Time Tracker",
+    "description": "Web Activity Time Tracker is <b>open-source</b>, <b>free</b> and <b>no ads</b> extension, which can help you track the time you spent on browsing websites and the count of visit."
+  },
+  "getStarted": {
+    "message": "Get started"
+  },
+  "welcomeStart": {
+    "message": "You can quickly start using the extension in just 3 easy steps"
+  },
+  "pinIcon": {
+    "message": "Pin the icon"
+  },
+  "pinIconPart1": {
+    "message": "To use this extension more conveniently, you can pin the icon to toolbar. Click the icon"
+  },
+  "pinIconPart2": {
+    "message": "and then click the pin icon"
+  },
+  "browse": {
+    "message": "Browse any websites",
+    "description": "When you visit any website, you will see that the time is displayed on the icon, just like here"
+  },
+  "seeData": {
+    "message": "View your data on the popup page and on the dashboard",
+    "description": "Click on the extension icon to open a popup page and you will be able to read the data visualized using a pie chart, for today, for all time or by day. In the popup window, you can open the dashboard and it will show you today's time by the clock. And you can set a daily time limit for any websites, notifications for websites, or export data to CSV."
+  },
+  "close": {
+    "message": "Close"
+  },
+  "useExtension": {
+    "message": "Use the extension"
+  },
+  "next": {
+    "message": "Next"
+  },
+  "showChangelog": {
+    "message": "Show changelog",
+    "description": "Show the list of changes after updating extension"
+  },
+  "byHours": {
+    "message": "Hourly"
+  },
+  "intervals": {
+    "message": "Intervals"
+  },
+  "intervalsChart": {
+    "message": "Only time intervals greater than",
+    "description": "are shown"
+  },
+  "completelyBlocked": {
+    "message": "Completely Blocked",
+    "description": "Completely Block"
+  },
+  "tryMyOtherApps": {
+    "message": "Try my other apps"
+  },
+  "clearYoutube": {
+    "message": "Clean YouTube",
+    "description": "Chrome extension that can hide YouTube shorts, recomended videos, comments, feed, homepage recommendations and other distractions. Watch YouTube free of distractions."
+  },
+  "darkTheme": {
+    "message": "Dark theme"
+  },
+  "cleanYoutube_promo": {
+    "message": "Try our new extension Clean Youtube"
+  },
+  "cleanYoutube_description": {
+    "message": "Would you like to hide shorts, recommended videos, comments on YouTube?"
+  },
+  "cleanYoutube_description2": {
+    "message": "Clean Youtube is a YouTube™ content blocker."
+  },
+  "cleanYoutube_features": {
+    "message": "Our features:"
+  },
+  "cleanYoutube_features1": {
+    "message": "Clean Mode - Show only Video Player on Page"
+  },
+  "cleanYoutube_features2": {
+    "message": "Hide Shorts, Comments, Related Videos. 15+ options."
+  },
+  "cleanYoutube_features3": {
+    "message": "Disable AutoPlay"
+  },
+  "cleanYoutube_features4": {
+    "message": "Disable End Screen Cards"
+  },
+  "cleanYoutube_features5": {
+    "message": "Black and White Mode"
+  },
+  "try": {
+    "message": "Try"
+  },
+  "donate": {
+    "message": "Donate"
+  },
+  "enjoy":{
+    "message": "Do you enjoy Web Activity Time Tracker?"
+  },
+  "canDonate":{
+    "message": "Web Activity Time Tracker is free extension. You can support me for the further development with cryptocurrency."
+  },
+  "thanks":{
+    "message": "Thank you! 🙏"
+  },
+  "coin":{
+    "message": "Coin"
+  },
+  "chain":{
+    "message": "Chain"
+  },
+  "address":{
+    "message": "Address"
+  }
+}

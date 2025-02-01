@@ -1,0 +1,431 @@
+{
+  "extName": {
+    "message": "Web Activity Time Tracker - Sitios bloqueados, Pomodoro y análisis web"
+  },
+  "extDescription": {
+    "message": "Controla el tiempo de tu actividad web, limita y bloquea los sitios web que te distraen. Monitoriza tu uso de la web."
+  },
+  "settings": {
+    "message": "Ajustes"
+  },
+  "today": {
+    "message": "Hoy"
+  },
+  "allTime": {
+    "message": "Tiempo total"
+  },
+  "byDays": {
+    "message": "Diario"
+  },
+  "noData": {
+    "message": "Sin datos"
+  },
+  "noDataForPeriod": {
+    "message": "No hay datos para el periodo seleccionado"
+  },
+  "showAll": {
+    "message": "Mostrar todos los sitios web"
+  },
+  "sortBy": {
+    "message": "Clasificación por"
+  },
+  "usageTime": {
+    "message": "Tiempo de uso"
+  },
+  "session": {
+    "message": "sesión"
+  },
+  "someSession": {
+    "message": "sesiones"
+  },
+  "sessions": {
+    "message": "Sesiones"
+  },
+  "days": {
+    "message": "días"
+  },
+  "aggregate": {
+    "message": "Datos agregados desde"
+  },
+  "websites": {
+    "message": "sitios web"
+  },
+  "cannotOpenFile": {
+    "message": "No se puede abrir un archivo local debido al protocolo de seguridad"
+  },
+  "document": {
+    "message": "Documento"
+  },
+  "limit": {
+    "message": "Límite"
+  },
+  "d": {
+    "message": "d"
+  },
+  "h": {
+    "message": "h"
+  },
+  "m": {
+    "message": "m"
+  },
+  "s": {
+    "message": "s"
+  },
+  "firstActiveDay": {
+    "message": "El primer día activo"
+  },
+  "numberOfActiveDays": {
+    "message": "Número de días activos"
+  },
+  "totalNumberOfDays": {
+    "message": "Número total de días"
+  },
+  "todayTime": {
+    "message": "Todo el tiempo hoy"
+  },
+  "averageTime": {
+    "message": "Tiempo medio de los días activos"
+  },
+  "averageDailyUsage": {
+    "message": "Uso medio diario"
+  },
+  "mostActiveDay": {
+    "message": "El día más activo"
+  },
+  "mostInactiveDay": {
+    "message": "El día más inactivo"
+  },
+  "todayInclude": {
+    "message": "Hoy está incluido en las estadísticas. Haga clic para excluir."
+  },
+  "todayEcclude": {
+    "message": "El día de hoy está excluido de las estadísticas. Haga clic para incluir."
+  },
+  "averageTimeByDays": {
+    "message": "Tiempo medio en los días seleccionados"
+  },
+  "exportToCsv": {
+    "message": "Exportar a CSV"
+  },
+  "week": {
+    "message": "Esta semana"
+  },
+  "month": {
+    "message": "Este mes"
+  },
+  "lastMonth": {
+    "message": "El mes pasado"
+  },
+  "generalSettings": {
+    "message": "Ajustes"
+  },
+  "whiteListSettings": {
+    "message": "ListaBlanca"
+  },
+  "limitsSettings": {
+    "message": "Límites"
+  },
+  "notificationsSettings": {
+    "message": "Notificaciones"
+  },
+  "pomodoroMode": {
+    "message": "Pomodoro"
+  },
+  "pomodoroSettings": {
+    "message": "Ajustes Pomodoro"
+  },
+  "pomodoro": {
+    "message": "Pomodoro",
+    "description": "El método Pomodoro es una técnica de gestión del tiempo basada en la alternancia de periodos de trabajo concentrado y de descanso. Según los clásicos del método Pomodoro, el periodo de trabajo dura 25 minutos, el de descanso 5 minutos."
+  },
+  "pomodoroExplanationIcon": {
+    "message": "Cuando el modo Pomodoro está activado y el modo de funcionamiento está activo, verá este icono",
+    "description": "Durante los periodos de descanso, verá este icono de extensión"
+  },
+  "pomodoroExplanationTime": {
+    "message": "Durante el modo Pomodoro, la extensión sigue teniendo en cuenta el tiempo que pasó en los sitios, todos los límites y las notificaciones de trabajo."
+  },
+  "pomodoroExplanationStop": {
+    "message": "Tras pulsar 'Parar', el tiempo de trabajo y de descanso se pone a cero."
+  },
+  "pomodoroWork": {
+    "message": "Período de trabajo"
+  },
+  "pomodoroRest": {
+    "message": "Periodo de descanso"
+  },
+  "pomodoroFrequency": {
+    "message": "Número de repeticiones"
+  },
+  "start": {
+    "message": "Ejecutar"
+  },
+  "stop": {
+    "message": "Stop"
+  },
+  "pomodoroIsEnabled": {
+    "message": "Modo Pomodoro activado"
+  },
+  "pomodoroSoundAfter": {
+    "message": "Sonido tras periodo completo"
+  },
+  "clickToPreview": {
+    "message": "Haga clic para escuchar"
+  },
+  "sound": {
+    "message": "Sonido"
+  },
+  "aboutSettings": {
+    "message": "Acerca de"
+  },
+  "viewTimeInBadge": {
+    "message": "Mostrar el cronómetro en un icono",
+    "description": "En el icono de extensión puede ver la información actual sobre el 'tiempo transcurrido' en formato abreviado"
+  },
+  "deferringDescription": {
+    "message": "Puedes posponer el bloqueo durante 5 minutos sólo una vez al día"
+  },
+  "allowDeferringBlock": {
+    "message": "Permitir el bloqueo diferido durante 5 minutos",
+    "description": "Una vez bloqueado el sitio, puede posponer el bloqueo durante 5 minutos a lo largo del día una sola vez"
+  },
+  "intervalInactivity": {
+    "message": "Detener el rastreador si no hay ninguna acción para",
+    "description": "Se trata de cualquier acción con el ratón o el teclado"
+  },
+  "exportToCsvSetting": {
+    "message": "Exportación de los datos de actividad web a CSV",
+    "description": "Puede exportar su actividad web para cualquier intervalo de fechas"
+  },
+  "sec": {
+    "message": "segundos"
+  },
+  "min": {
+    "message": "minuto"
+  },
+  "2min": {
+    "message": "minutos"
+  },
+  "mins": {
+    "message": "minutos"
+  },
+  "whiteList": {
+    "message": "La actividad y el tiempo de permanencia en estos sitios web no se rastrearán."
+  },
+  "addWebsite": {
+    "message": "Añadir sitio web"
+  },
+  "enterWebsite": {
+    "message": "Introduzca el nombre del sitio web..."
+  },
+  "enterNotification": {
+    "message": "Introducir mensaje de notificación..."
+  },
+  "limits": {
+    "message": "Restricciones diarias de acceso a los sitios web",
+    "description": "Establezca el tiempo máximo permitido para visitar el sitio web al día. Transcurrido este tiempo, el sitio se bloqueará."
+  },
+  "limitsTip": {
+    "message": "Si establece el tiempo de bloqueo en 0 horas 0 minutos, el sitio web se bloqueará inmediatamente"
+  },
+  "save": {
+    "message": "Guardar"
+  },
+  "showDailyNotification": {
+    "message": "Notificaciones diarias resumidas",
+    "description": "Al final de cada día, recibirás una notificación con un resumen de tu uso diario"
+  },
+  "notificationTime": {
+    "message": "Notificaciones para sitios web",
+    "description": "Mostrar notificaciones cada vez que pase un periodo de tiempo seleccionado en el sitio web."
+  },
+  "notificationMessage": {
+    "message": "Mensaje de notificación",
+    "description": "Verás este mensaje en la notificación de sitios web cada vez que"
+  },
+  "notificationTimeSetting": {
+    "message": "Hora de notificación con información resumida sobre su uso diario"
+  },
+  "github": {
+    "message": "Deje su opinión o informe de un problema en"
+  },
+  "question": {
+    "message": "También puede hacer preguntas y dejar sus sugerencias"
+  },
+  "supportForm": {
+    "message": "formulario de asistencia"
+  },
+  "doYouEnjoy": {
+    "message": "¿Te gusta Web Activity Time Tracker?"
+  },
+  "review": {
+    "message": "Deja tu opinión"
+  },
+  "promoClearYoutube": {
+    "message": "¿Te gustaría bloquear los cortos, los comentarios, los vídeos recomendados, las suscripciones y otras distracciones de YouTube? Hemos creado otra extensión que te ayudará a ver YouTube sin distracciones.",
+    "description": "Prueba Clean YouTube"
+  },
+  "block": {
+    "message": "Has alcanzado tu límite por hoy en"
+  },
+  "5mins": {
+    "message": "+ 5 minutos"
+  },
+  "todayUsageTime": {
+    "message": "Tiempo total de uso para hoy "
+  },
+  "comparedToYesterday": {
+    "message": " en comparación con ayer "
+  },
+  "mostVisited": {
+    "message": "Sitio web más visitado "
+  },
+  "dashboard": {
+    "message": "Cuadro de mandos"
+  },
+  "timeChartDescription": {
+    "message": "Este es un gráfico del tiempo durante el día por horas"
+  },
+  "enjoyAndReview": {
+    "message": "¿Disfrutando de la ampliación?",
+    "description": "Valora Web Activity Time Tracker"
+  },
+  "removeAllData": {
+    "message": "Eliminar todos los datos",
+    "description": "Puede borrar todos los datos y estadísticas de los sitios web visitados para siempre"
+  },
+  "remove": {
+    "message": "Eliminar"
+  },
+  "removeAllDataConfirm": {
+    "message": "¿Estás seguro de que quieres borrar todos los datos?"
+  },
+  "cancel": {
+    "message": "Cancelar"
+  },
+  "backupAndRestore": {
+    "message": "Copia de seguridad y restauración",
+    "description": "Puedes descargar una copia de seguridad de todos los datos de todos los sitios visitados"
+  },
+  "backup": {
+    "message": "Copia de seguridad"
+  },
+  "restore": {
+    "message": "Restaurar"
+  },
+  "welcome": {
+    "message": "Bienvenido a Web Activity Time Tracker",
+    "description": "Web Activity Time Tracker es una extensión de código abierto, gratuita y sin publicidad, que puede ayudarte a controlar el tiempo que pasas navegando por páginas web y el recuento de visitas."
+  },
+  "getStarted": {
+    "message": "Empezar"
+  },
+  "welcomeStart": {
+    "message": "Puede empezar a utilizar rápidamente la extensión en sólo 3 sencillos pasos"
+  },
+  "pinIcon": {
+    "message": "Anclar el icono"
+  },
+  "pinIconPart1": {
+    "message": "Para utilizar esta extensión más cómodamente, puede fijar el icono a la barra de herramientas. Haga clic en el icono"
+  },
+  "pinIconPart2": {
+    "message": "y, a continuación, haga clic en el icono de la chincheta"
+  },
+  "browse": {
+    "message": "Navegar por cualquier sitio web",
+    "description": "Cuando visite cualquier sitio web, verá que la hora aparece en el icono, como aquí"
+  },
+  "seeData": {
+    "message": "Visualiza tus datos en la página emergente y en el cuadro de mandos",
+    "description": "Haz clic en el icono de la extensión para abrir una página emergente y podrás leer los datos visualizados mediante un gráfico circular, para hoy, para todo el tiempo o por día. En la ventana emergente, puedes abrir el panel de control y te mostrará el tiempo de hoy según el reloj. Y puedes establecer un límite de tiempo diario para cualquier sitio web, notificaciones para sitios web o exportar los datos a CSV."
+  },
+  "close": {
+    "message": "Cerrar"
+  },
+  "useExtension": {
+    "message": "Utilizar la extensión"
+  },
+  "next": {
+    "message": "Siguiente"
+  },
+  "showChangelog": {
+    "message": "Mostrar el registro de cambios",
+    "description": "Mostrar la lista de cambios tras actualizar la extensión"
+  },
+  "byHours": {
+    "message": "Por hora"
+  },
+  "intervals": {
+    "message": "Intervalos"
+  },
+  "intervalsChart": {
+    "message": "Sólo los intervalos de tiempo superiores a",
+    "description": "se muestran"
+  },
+  "completelyBlocked": {
+    "message": "Completamente bloqueado",
+    "description": "Completamente bloqueado"
+  },
+  "tryMyOtherApps": {
+    "message": "Pruebe mis otras aplicaciones"
+  },
+  "clearYoutube": {
+    "message": "Clean YouTube",
+    "description": "Extensión de Chrome que puede ocultar los cortos de YouTube, los vídeos recomendados, los comentarios, el feed, las recomendaciones de la página de inicio y otras distracciones. Vea YouTube sin distracciones."
+  },
+  "darkTheme": {
+    "message": "Tema oscuro"
+  },
+  "cleanYoutube_promo": {
+    "message": "Prueba nuestra nueva extensión Clean Youtube"
+  },
+  "cleanYoutube_description": {
+    "message": "Te gustaría ocultar cortos, vídeos recomendados, comentarios en YouTube?"
+  },
+  "cleanYoutube_description2": {
+    "message": "Clean Youtube es un bloqueador de contenido de YouTube™."
+  },
+  "cleanYoutube_features": {
+    "message": "Nuestras características:"
+  },
+  "cleanYoutube_features1": {
+    "message": "Modo Limpio - Muestra sólo el reproductor de vídeo en la página"
+  },
+  "cleanYoutube_features2": {
+    "message": "Ocultar cortos, comentarios, vídeos relacionados. Más de 15 opciones."
+  },
+  "cleanYoutube_features3": {
+    "message": "Desactivar reproducción automática"
+  },
+  "cleanYoutube_features4": {
+    "message": "Desactivar tarjetas de fin de pantalla"
+  },
+  "cleanYoutube_features5": {
+    "message": "Modo Blanco y Negro"
+  },
+  "try": {
+    "message": "Pruebe"
+  },
+  "donate":{
+    "message": "Donación"
+  },
+  "enjoy":{
+    "message": "¿Te gusta Web Activity Time Tracker?"
+  },
+  "canDonate":{
+    "message": "Web Activity Time Tracker es una extensión gratuita. Usted me puede apoyar para el desarrollo futuro con cryptocurrency."
+  },
+  "thanks":{
+    "message": "Muchas gracias! 🙏"
+  },
+  "coin":{
+    "message": "Moneda"
+  },
+  "chain":{
+    "message": "Cadena"
+  },
+  "address":{
+    "message": "Dirección"
+  }
+}
